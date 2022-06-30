@@ -1,0 +1,1 @@
+Buildable instances of Android libs, all expected to be run under Visual Studio 2022 (as that's what I use)
