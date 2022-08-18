@@ -228,7 +228,6 @@
     <ClCompile Include="luasrc\lutf8lib.c" />
     <ClCompile Include="luasrc\lvm.c" />
     <ClCompile Include="luasrc\lzio.c" />
-    <ClCompile Include="luasrc\onelua.c" />
   </ItemGroup>
   <ItemGroup>
     <None Include="luasrc\README.md" />

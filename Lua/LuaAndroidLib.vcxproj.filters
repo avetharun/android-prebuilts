@@ -194,9 +194,6 @@
     <ClCompile Include="luasrc\lzio.c">
       <Filter>luasrc</Filter>
     </ClCompile>
-    <ClCompile Include="luasrc\onelua.c">
-      <Filter>luasrc</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="luasrc\README.md">
